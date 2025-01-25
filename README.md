@@ -43,12 +43,6 @@ Since this is a static website, no special server-side setup is required.
 2. Open the `index.html` file in any browser to view the website locally.
 ---
 
-## Contributing
-
-This is a personal project, and contributions are not required at this moment. However, feel free to fork the repository, create pull requests, or suggest improvements.
-
----
-
 ## License
 
 This project is open-source and available under the MIT License. See the LICENSE file for more details.
