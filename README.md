@@ -35,7 +35,7 @@ The website includes the following key sections:
 
 ---
 
-## Installation
+## Usage
 
 Since this is a static website, no special server-side setup is required. 
 
