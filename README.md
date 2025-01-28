@@ -6,6 +6,10 @@ Since this is a static website, some functions, such as contact the seller, fill
 
 **Attention! All the information in the websit is virtual!**
 
+## Display
+Go to the following link to get preview of the website: <br>
+<https://zzq132.github.io/Bootstrap5-Website/>
+
 ## Features
 
 The website includes the following key sections:
